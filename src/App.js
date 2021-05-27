@@ -1,17 +1,15 @@
 /** @format */
 
 import Header from "./components/Header";
-import classes from "./App.module.css";
 import TinderCardCop from "./components/TinderCardCop";
+import SwipeButtons from "./components/SwipeButtons";
 
 function App() {
 	return (
-		<div className={classes.app}>
+		<div>
 			<Header />
-
 			<TinderCardCop />
-
-			{/* SwipeButtons */}
+			<SwipeButtons />
 		</div>
 	);
 }

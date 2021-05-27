@@ -12,6 +12,7 @@ const Header = () => {
 			<IconButton>
 				<PersonIcon />
 			</IconButton>
+
 			<img
 				className={classes.image}
 				src='https://www.techadvisor.com/cmsdata/features/3515013/tinder_logo_thumb1200_16-9.png'
