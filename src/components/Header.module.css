@@ -1,0 +1,18 @@
+/** @format */
+
+.header {
+	display: flex;
+	justify-items: center;
+	justify-content: space-between;
+	z-index: 100;
+	border-bottom: 1px solid #f9f9f9;
+}
+
+.image {
+	object-fit: contain;
+	height: 60px;
+}
+
+.header__icon {
+	padding: 20px;
+}
