@@ -1,3 +1,25 @@
+# tinder-clone-app
+
+==> MERN Stack Tinder Clone App - MongoDB, Express, React, Node.js 
+
+
+# <a href="https://tinder-clone-2a3df.web.app/">Live Demo </a>
+
+# <a href="https://github.com/saddamarbaa/tinder-clone-api"> Back-End Repo </a>
+
+
+# responsive on large screens
+
+![image](https://user-images.githubusercontent.com/51326421/120000745-58a87c00-bffd-11eb-84e4-e6eb264aaf63.png)
+
+
+# responsive on small screens
+
+![image](https://user-images.githubusercontent.com/51326421/120000875-7970d180-bffd-11eb-8602-52b51840220f.png)
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
