@@ -20,8 +20,6 @@ const TinderCardCop = () => {
 		fetchData();
 	}, []);
 
-	console.log(people);
-
 	const swiped = (direction, nameToDelete) => {
 		console.log("removing: " + nameToDelete);
 		setLastDirection(direction);
